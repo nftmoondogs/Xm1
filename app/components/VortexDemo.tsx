@@ -9,7 +9,7 @@ export function VortexDemo() {
         className="flex items-center flex-col justify-center px-2 md:px-10 py-4 w-full h-full"
       >
         <h2 className="text-white text-2xl md:text-6xl font-bold text-center">
-          The hell is this about space?
+          The hell is this about space? Changed from "black" to "transparent"
         </h2>
         <p className="text-white text-sm md:text-2xl max-w-xl mt-6 text-center">
           This is chemical burn. It'll hurt more than you've ever been burned and you'll have a scar.
